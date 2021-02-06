@@ -1,0 +1,7 @@
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\bin\Debug\EightQueen.exe.config
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\bin\Debug\EightQueen.exe
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\bin\Debug\EightQueen.pdb
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\obj\Debug\EightQueen.csprojAssemblyReference.cache
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\obj\Debug\EightQueen.csproj.CoreCompileInputs.cache
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\obj\Debug\EightQueen.exe
+C:\Users\İlker\Source\Repos\EightQueen\EightQueen\obj\Debug\EightQueen.pdb

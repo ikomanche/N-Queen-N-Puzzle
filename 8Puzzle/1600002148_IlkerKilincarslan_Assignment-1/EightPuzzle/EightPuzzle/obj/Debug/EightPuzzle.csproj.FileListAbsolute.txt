@@ -1,0 +1,6 @@
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe.config
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.csprojAssemblyReference.cache
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.exe
+C:\Users\İlker\Source\Repos\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.pdb
